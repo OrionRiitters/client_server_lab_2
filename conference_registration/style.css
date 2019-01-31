@@ -1,0 +1,11 @@
+.jumbotron {
+    font-size: 48px;
+    background-image: linear-gradient(#dd4444, #ffdddd);
+    color: #4444aa;
+    opacity: .9;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: linear-gradient(#ffffff, #dd4444);
+}
