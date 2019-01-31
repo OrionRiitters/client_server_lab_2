@@ -1,0 +1,19 @@
+.jumbotron {
+    color: #ff2222;
+    background-color: #bbbbbb;
+}
+
+.prog-description {
+    color: #eeee00;
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: bold;
+    font-size: 42px;
+    
+}
+
+body {
+    background-image: url(Background.png);
+    background-attachment: fixed;
+
+}
+

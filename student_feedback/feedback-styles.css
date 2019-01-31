@@ -1,0 +1,15 @@
+.jumbotron {
+    background: #ffcccc;
+    color: #000000;
+    vertical-align: middle;
+}
+
+body {
+    font-family: 'Monoton', cursive;
+    font-family: 'Tajawal', sans-serif;
+    background: #ccccff
+}
+
+.important {
+    vertical-align: middle;
+}
